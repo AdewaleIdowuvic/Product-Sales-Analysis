@@ -91,7 +91,7 @@ The majority of revenue and profit is driven by just 2–3 products. This leaves
 
 This sales analysis project demonsatrates how transforming raw data into clear insights can uncover hidden opportunities, identify performance gaps and drive smarter business decisions
 
-**✍️📊 Author/Analyst**
+**✍️📊 Analyst/Author**
 
    **ADEWALE IDOWU VICTOR**
 
