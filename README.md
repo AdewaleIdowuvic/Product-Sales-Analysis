@@ -1,4 +1,4 @@
-Introduction & Background
+## Introduction & Background
 
 Understanding what drives sales, profits, and customer behavior is critical to any product-based business. This project dives into the analysis of a product sales data to uncover key performance drivers, spot underperforming products, and reveal patterns in profitability and customer demand.
 The dataset includes detailed information on product names, transaction dates, units sold, pricing, and more. The goal was to transform this raw dataset into a powerful business tool  enabling real-time insights and decision-making through interactive dashboards and KPIs.
@@ -13,7 +13,7 @@ Strategic Questions from the Analysis
 - What insights can drive smarter inventory, pricing, or marketing decisions?
 
 
-🛠 Tools & Skills Used
+## 🛠 Tools & Skills Used
 
 | Area               | Tools/Techniques                            |
 |--------------------|---------------------------------------------|
@@ -25,7 +25,7 @@ Strategic Questions from the Analysis
 | Interactivity      | Slicers (Year, Month, Product), hover tooltips |
 
 
-Additional Data Preparation Notes
+**Additional Data Preparation Notes**
 - Part of the initial data cleaning (e.g., removing blanks, correcting column names) was performed using *Microsoft Excel*.
 - Created additional columns in both *Excel* and *Power BI*, including extracting months and years from date fields.
 - Utilized *Power Query Editor* in Power BI to transform and reshape the dataset before building the data model.
@@ -91,7 +91,7 @@ The majority of revenue and profit is driven by just 2–3 products. This leaves
 
 This sales analysis project demonsatrates how transforming raw data into clear insights can uncover hidden opportunities, identify performance gaps and drive smarter business decisions
 
-**✍️📊 Author**
+**✍️📊 Author/Analyst**
 
    **ADEWALE IDOWU VICTOR**
 
