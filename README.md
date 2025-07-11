@@ -85,8 +85,14 @@ Some products yield high margins, while others significantly lower the average. 
 ### 🧩 9. Limited Product Diversification
 The majority of revenue and profit is driven by just 2–3 products. This leaves the business vulnerable to changes in customer preference or supply disruptions related to those items.
 
-✅ *Recommendation*: Experiment with bundling mid-performing products with best-sellers (bulk selling), and use insights to explore new variants that match the profile and taste of top selling products.
+✅ **Recommendation**: Experiment with bundling mid-performing products with best-sellers (bulk selling), and use insights to explore new variants that match the profile and taste of top selling products.
 
 ![Image](https://github.com/user-attachments/assets/1c0b286a-2c92-4e88-8b6d-00abd68623cc)
 
 This sales analysis project demonsatrates how transforming raw data into clear insights can uncover hidden opportunities, identify performance gaps and drive smarter business decisions
+
+**✍️📊 Author**
+
+   **ADEWALE IDOWU VICTOR**
+
+https://www.linkedin.com/in/adewale-idowu-0880a4164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
